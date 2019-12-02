@@ -1,30 +1,21 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Dec 2nd, 2019
+#### Today's Goal: ####
+**Javascript Challenges** I only have about an hour or so before I have things to do today so a quick JS challenge or two
+**1st Challenge** Create a redundant function that takes in a str argument and returns a str. The orignial function should return a function
+**2nd Challenge** Write a function that takes an integer minutes and converts it to seconds.
+**3rd Challenge** Write a function that takes the base and height of a triangle and return its area.
+**4th Challenge** Create a function that takes a number as an argument, increments the number by +1 and returns the result.
+**5th Challenge** Create a function that takes a number a and finds the missing exponent x so that a when raised to the power of x is equal to b.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+#### Things Learned: ####
+Refreshed my knowledge on ES6; 'let', 'const', arrow functions, etc.
+There's always a bunch of ways to do things and it's not always as hard as it seems.
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Links:** https://edabit.com/challenge/hzxN9bAebBPNqdQto, 
+		   https://edabit.com/challenge/8q54MKnRrm89pSLmW, 
+		   https://edabit.com/challenge/3CaszbdZYGN4otQD8, 
+		   https://edabit.com/challenge/NAQhEoxbofPidLxm9,
+		   https://edabit.com/challenge/PXau3Fzk8GXgF6oRQ
