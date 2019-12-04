@@ -2,7 +2,7 @@
 
 ### Day 1: Dec 2nd, 2019
 #### Today's Goal: ####
-**Javascript Challenges** I only have about an hour or so before I have things to do today so a quick JS challenge or two
+**JavaScript Challenges** I only have about an hour or so before I have things to do today so a quick JS challenge or two
 **1st Challenge** Create a redundant function that takes in a str argument and returns a str. The orignial function should return a function
 **2nd Challenge** Write a function that takes an integer minutes and converts it to seconds.
 **3rd Challenge** Write a function that takes the base and height of a triangle and return its area.
@@ -19,3 +19,12 @@ There's always a bunch of ways to do things and it's not always as hard as it se
 		   https://edabit.com/challenge/3CaszbdZYGN4otQD8, 
 		   https://edabit.com/challenge/NAQhEoxbofPidLxm9,
 		   https://edabit.com/challenge/PXau3Fzk8GXgF6oRQ
+
+
+### Day 2: Dec 3rd, 2019
+#### Today's Goal: ####
+**HTML/CSS practice** Created a fully functioning mini blog for a client. 
+**JavaScript practice** Helped someone with their JS assignment while challenging myself at the same time.
+
+#### Things Learned: ####
+Refresher on basic HTML/CSS/JavaScript
