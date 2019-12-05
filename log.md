@@ -28,3 +28,24 @@ There's always a bunch of ways to do things and it's not always as hard as it se
 
 #### Things Learned: ####
 Refresher on basic HTML/CSS/JavaScript
+
+
+### Day 3: Dec 4th, 2019
+#### Today's Goal: ####
+**JavaScript Challenges** Went back to edabit.com for more challenges 
+**JavaScript Tutorial** Tried to follow along with a JS Tutorial on seperation concepts @ https://medium.com/@michael.karen/learning-modern-javascript-with-tetris-92d532bcd057 but it was more like copying and pasting. No real lessons learned as I didn't quite grasp the underlying concepts. May re-visit later on 
+
+**1st Challenge** Write a function that checks if two numbers are either: Smaller than 0, Greater than 0 or Exactly 0.
+**2nd Challenge** Write a function that classifies the missing angle as either "acute", "right", or "obtuse" based on its degrees.
+**3rd Challenge** Write a function that takes an integer and returns a string with the given number of "a"s in Edabit.
+**4th Challenge** Create a function to multiply all values in an array by the amount of values in that array.
+**5th Challenge** A number added with its additive inverse equals zero.
+**6th Challenge** Create a function that takes a string and returns the word count. The string will be a sentence.
+**7th Challenge** Create a function that adds a string ending to each member in an array.
+**8th Challenge** Create a function that takes a number (from 1 - 60) and returns a corresponding string of hyphens.
+**9th Challenge** Create a function that returns the smaller number.
+
+#### Things Learned: ####
+'.map()' is a very useful method I learned within these challenges. 
+The challenges themselves were quite easy which  makes me feel pretty good that they're classified as 'medium' difficulty.
+May need to move up to 'Hard' soon.

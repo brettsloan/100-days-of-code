@@ -41,7 +41,7 @@
     const triArea = (base, height) => (base * height) / 2; //multiple arrow function parameters go inside brackets. See lines 13 and 30 vs 41.
 //Completed challenge!
 //Using full syntax
-    function(base, height) {
+    function a(base, height) {
         return (base * height) / 2;
     }
 //------------------------------------------------------------------------------------------------
