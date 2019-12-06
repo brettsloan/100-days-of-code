@@ -49,3 +49,21 @@ Refresher on basic HTML/CSS/JavaScript
 '.map()' is a very useful method I learned within these challenges. 
 The challenges themselves were quite easy which  makes me feel pretty good that they're classified as 'medium' difficulty.
 May need to move up to 'Hard' soon.
+
+### Day 4: Dec 5th, 2019
+#### Today's Goal: ####
+**JavaScript Challenges** Busy day today, so used about an hour and half and went up 'hard' on edabit.com
+
+**1st Challenge** Create a function that takes an array of numbers and return "Boom!" if the number 7 appears in the array. Otherwise, return "there is no 7 in the array".
+**2nd Challenge** Create a function that returns true if a pair of strings constitutes a strange pair, and false otherwise.
+**3rd Challenge** Create a function to remove all null values from an array.
+**4th Challenge** Write three separate functions, one to retrieve each element in the semantic versioning specification.
+**5th Challenge** Create a function that takes a number (from 1 to 12) and returns its corresponding month name as a string.
+**6th Challenge** Write a function that takes three string arguments (first, last, word) and returns true if (when alphabetically sorted) word is found between first and last.
+**7th Challenge** Create a function that takes a number as an argument and returns "Fizz", "Buzz" or "FizzBuzz".
+
+#### Things Learned: ####
+Today I really tried to focus on making my functions as short as possible with ES6 arrow functions and ternary operators.
+Saw some RegEx come up and I really don't know anything about them. Will need to learn about those shortly.
+'.filter()' is a very cool method which I'll probably need at one point or another. 
+Creates a new array by mapping over an exsisting array and passing a function onto each element. Any element that passes the function is added to the new array in sequence. 
