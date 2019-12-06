@@ -50,6 +50,7 @@ Refresher on basic HTML/CSS/JavaScript
 The challenges themselves were quite easy which  makes me feel pretty good that they're classified as 'medium' difficulty.
 May need to move up to 'Hard' soon.
 
+
 ### Day 4: Dec 5th, 2019
 #### Today's Goal: ####
 **JavaScript Challenges** Busy day today, so used about an hour and half and went up 'hard' on edabit.com
