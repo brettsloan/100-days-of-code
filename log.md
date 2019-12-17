@@ -130,7 +130,7 @@ I followed along with a tutorial youtube and then practiced by playing around wi
 Learned run SASS on VSCode and write variables, mixins and nested CSS selectors.
 
 **Links** https://www.youtube.com/watch?v=roywYSEPSvc
-
+ 
 
 
 
