@@ -104,3 +104,37 @@ It's extremely important to have a site accessible for everyone.
 
 **links** https://www.freecodecamp.org/learn/responsive-web-design/applied-accessibility/
 		  https://brettsloan.github.io/
+
+### Day 7: Dec 12th, 2019 ###
+#### Today's Goal: ####
+**fix MacOS Catalina**
+
+Today I really wanted to try out Xcode and try writing an app or at least play around in it.
+While I didn't get that much coding done today, I did switch from VirtualBox to VMWare and that has made MasOS 
+so much faster as well as more stable.
+
+#### Things Learned: ####
+Played around in Xcode and watched a tutorial on storyboards.
+
+### Day 8: Dec 16th, 2019 ###
+#### Today's Goal: ####
+**Continue to learning and improving on what I already know**
+
+I feel like I'm well versed in HTML/CSS so I wanted to continue on that knowledge and try out SASS finally.
+SASS has a ton of different tools that you're able to use and it processes it into CSS.
+It seems like a really amazing tool and I get why a lot of people use it.
+I Watched tutorials (listed below) to learn about it. 
+I followed along with a tutorial youtube and then practiced by playing around with different values.
+
+#### Things Learned: ####
+Learned run SASS on VSCode and write variables, mixins and nested CSS selectors.
+
+**Links** https://www.youtube.com/watch?v=roywYSEPSvc
+
+
+
+
+### Day  : Dec    , 2019 ###
+#### Today's Goal: ####
+
+#### Things Learned: ####
