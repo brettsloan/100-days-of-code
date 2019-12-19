@@ -158,6 +158,10 @@ Went through the lessons provided and learned more about Responsive layouts and 
 Already knew almost all of it but the section on Grids was super useful as it almost replaces bootstrap.
 I'm still working on these lessons as I type this but so far Grids have been insanely useful. 
 
+Worked on an interesting project to play with CSS lighting.
+A dimmer that changes all the lightness values to seem darker or lighter on a webpage.
+Only did HTML and CSS today. Will try some JS tomorrow with it.
+
 #### Things Learned: ####
 Grid system layout for CSS
 
