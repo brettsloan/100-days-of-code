@@ -131,10 +131,20 @@ Learned run SASS on VSCode and write variables, mixins and nested CSS selectors.
 
 **Links** https://www.youtube.com/watch?v=roywYSEPSvc
  
+### Day 9: Dec 18th, 2019 ###
+#### Today's Goal: ####
+**Continue with FreeCodeCamp.org lessons**
+
+Went through the lessons provided and learned more about Responsive layouts and CSS Grids.
+Already knew almost all of it but the section on Grids was super useful as it almost replaces bootstrap.
+I'm still working on these lessons as I type this but so far Grids have been insanely useful. 
+
+#### Things Learned: ####
+Grid system layout for CSS
 
 
 
-### Day  : Dec    , 2019 ###
+### Day : Dec , 2019 ###
 #### Today's Goal: ####
 
 #### Things Learned: ####
