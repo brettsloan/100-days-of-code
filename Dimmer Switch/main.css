@@ -1,0 +1,43 @@
+body {background-color: hsl(7, 100%, 63%);}
+
+#lightSwitchBox {
+    margin: 20% auto;
+    width: 250px;
+    height: 250px;
+    background-color: hsl(59, 30%, 70%);
+    border-radius: 5%;
+    border: 7px hsl(58, 100%, 93%) solid;
+    display: grid;
+    grid-template-columns: 50px 150px 50px;
+    box-shadow: 0px 10px 5px hsl(0, 3%, 14%);
+}
+
+#screwOne, #screwTwo {
+    margin: auto;
+    width: 20px;
+    height: 20px;
+    background-color: hsl(0, 0%, 64%);
+    border-radius: 50%;
+    grid-column: auto;
+    border: 1px hsl(0, 0%, 0%) solid;
+}
+
+#dimmer {
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 7px hsl(58, 100%, 93%) solid;
+    box-shadow: 0px 10px 5px hsl(0, 3%, 14%);
+    cursor: pointer;
+}
+
+#dimmerCircle {
+    margin: auto;
+    margin-top: 5px;
+    width: 15px;
+    height: 15px;
+    background-color: hsl(0, 81%, 41%);
+    border-radius: 50%;
+    cursor: grab;
+}
