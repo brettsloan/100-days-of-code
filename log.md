@@ -165,7 +165,17 @@ Only did HTML and CSS today. Will try some JS tomorrow with it.
 #### Things Learned: ####
 Grid system layout for CSS
 
+### Day 10: Dec 19th, 2019 ###
+#### Today's Goal: ####
+**Continued the mini project with the light switch dimmer**
 
+I was able to get the click function of dimming all CSS HSL values which was nice but the rotation part has left me totally confused. I went on a bunch of sites/forums to try and make sense of it but it's just a little to advanced for me right now. Will continue to look into it but need to learn the basic principles behind it first.
+
+Will do more things tonight and update this accordingly
+
+#### Things Learned: ####
+Nothing new learned but dove into JS rotation functions.
+Too advanced for me right now. Need to learn their cores and basic functions to understand them better.
 
 
 ### Day : Dec , 2019 ###
