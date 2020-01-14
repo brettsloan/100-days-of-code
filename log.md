@@ -178,7 +178,43 @@ Nothing new learned but dove into JS rotation functions.
 Too advanced for me right now. Need to learn their cores and basic functions to understand them better.
 
 
-### Day : Dec , 2019 ###
+### Day 11: Jan 7th, 2020 ###
 #### Today's Goal: ####
+**Continue with FreeCodeCamp.org lessons**
+
+Ended up finishing the Responsive Web Design Certification on Free Code Camp. 
+
+#### Things Learned: ####
+Finished up the HTML/CSS lessons on freecodecamp. Not much learned but already known info was strengthened. 
+
+
+### Day 12: Jan 8th, 2020 ###
+#### Today's Goal: ####
+**Continue with FreeCodeCamp.org lessons**
+
+Started the Javascript Algorithms and Data Structures Certification. 
+Basics of JavaScript were easy but it was good to go over them again.
+
+#### Things Learned: ####
+Went over the basic JavaScript lessons and strengthed the basics.
+
+### Day 13: Jan 9th, 2020 ###
+#### Today's Goal: ####
+**Continue with FreeCodeCamp.org lessons**
+
+Started the Regular Expressions chapter. RegExes have always been daunting to me but once you know how they work and
+what they're doing, they're not actually hard at all. It definitely can get complex and I am writing a reference sheet
+to work off of and help retain the info.
+
+#### Things Learned: ####
+RegEx expressions, methods such as .test() and .match(), flags, wildcard characters, what you would use RegEx for
+
+
+### Day 14: Jan 13th, 2020 ###
+#### Today's Goal: ####
+**Continue with FreeCodeCamp.org lessons**
+
+Carrying on with RegEx and the reference sheet. RegExes seem like they hold a lot of value so I'm trying to soak up
+as much as I can while going over it the first time. 
 
 #### Things Learned: ####
